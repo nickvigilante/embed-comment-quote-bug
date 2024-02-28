@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "tabset-embed-comment-quote-bug"
+  navbar:
+    left:
+      - href: works.qmd
+        text: This Page Works
+      - href: breaks.qmd
+        text: This Page Breaks
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,5 @@
+---
+title: "This Page Works"
+---
+
+{{< embed notebook-works.ipynb#works echo=true >}}

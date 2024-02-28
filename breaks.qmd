@@ -1,0 +1,6 @@
+---
+title: "This Page Breaks"
+notebook-links: false
+---
+
+{{< embed notebook-breaks.ipynb#breaks echo=true >}}
